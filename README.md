@@ -15,4 +15,4 @@
 
 #### Preview of teh app
 
-![]()
+![](https://media.giphy.com/media/h3XNVEIZvvPawGK8yY/giphy.gif)
